@@ -19,6 +19,7 @@
 - :school: I `Studnt in` [Faculty of Computers & Informatics] at [South Vally Natonal Univesity](http://svnu.edu.eg/ar/).
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`.
 - ✍🏻 I love using Software as a solution for every Problem
+- - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - 🤓 Always learning new things
 <br>
 
@@ -179,5 +180,13 @@
 	
 </details>
 </br></br>
-	
+	## 🐍 A Snake Eating My Contributions Graph
+
+<p align="center">
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+	</picture>
+</p>
 
