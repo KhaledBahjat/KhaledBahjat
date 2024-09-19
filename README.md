@@ -181,7 +181,7 @@
 
 ----
 	
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=7oSkaaa&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledBahjat&bg_color=4d1432&color=9e4c98&line=000000&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)">
  
 </details>
 
