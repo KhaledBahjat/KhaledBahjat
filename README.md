@@ -12,7 +12,7 @@
 	
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+<img align="right" src="https://github.com/KhaledBahjat/KhaledBahjat/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
 - 👨‍💻 I'm Software Engineer 
@@ -34,7 +34,7 @@
     <a href="https://atcoder.jp/users/NoSt0n_"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
 </div>
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+## <img src="https://github.com/KhaledBahjat/KhaledBahjat/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
 	<a href="mailto:khaledbahjat0@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/KhaledBahjat"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -47,7 +47,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
+### <img src = "https://github.com/KhaledBahjat/KhaledBahjat/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -68,7 +68,7 @@
   </a>
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
+### <img src = "https://github.com/KhaledBahjat/KhaledBahjat/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -88,7 +88,7 @@
    </a>
 </p>
 
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
+ ### <img src = "https://github.com/KhaledBahjat/KhaledBahjat/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
  
 <p align="center">
   &emsp;
@@ -101,7 +101,7 @@
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
+ ### <img src = "https://github.com/KhaledBahjat/KhaledBahjat/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
  
 <p align="center">
   &emsp;
@@ -114,7 +114,7 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width=5%> Competitive Programming & Problem Solving
+ ### <img src = "https://github.com/KhaledBahjat/KhaledBahjat/blob/main/Images/CP_PS.gif?raw=true" width=5%> Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
@@ -125,7 +125,7 @@
     <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
 </p>
 
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%>  Operating Systems
+ ### <img src = "https://github.com/KhaledBahjat/KhaledBahjat/blob/main/Images/OS.gif?raw=true" width=5%>  Operating Systems
  
 <p align="center">
   &emsp;
