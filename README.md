@@ -20,7 +20,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
 - ✍🏻 I love using Software as a solution for every Problem
 - 🤓 Always learning new things
-- :thinking: I’m currently lerining React.
+- :thinking: I’m currently lerining React & js.
 <br>
 
 
