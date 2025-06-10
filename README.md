@@ -6,9 +6,7 @@
 </p>
 <br>
 <p>
-  <a href="https://git.io/typing-svg"><img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8E%93+Computer+Science+Student;%F0%9F%93%B1+Learning+Flutter;%F0%9F%A7%A0+Solving+Problems+on+Codeforces+%26+LeetCode"
-      alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8E%93+Computer+Science+Student;%F0%9F%93%B1+Learning+Flutter;%F0%9F%A7%A0+Solving+Problems+on+Codeforces+%26+LeetCode" alt="Typing SVG" /></a>
 </p>
 <br>
 
