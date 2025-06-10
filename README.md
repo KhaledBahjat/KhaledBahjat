@@ -34,12 +34,10 @@
   <a href="https://codeforces.com/profile/NoSt0n_"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width="6%" /></a>
   &emsp;
   <a href="https://leetcode.com/u/Khaled_Bahjat/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="6%" /></a>
-
-  
   &emsp;
   <a href="https://atcoder.jp/users/NoSt0n_"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width="6%" /> </a>
   &emsp;
-  <a href="https://vjudge.net/user/khaledbahjat"> <img src="https://img.shields.io/badge/Vjudge-0A0A0A.svg?style=plastic&logo=codeproject&logoColor=white" /></a>
+  <a href="https://vjudge.net/user/khaledbahjat"> <img src="https://img.shields.io/badge/Vjudge-0A0A0A.svg?style=plastic&logo=codeproject&logoColor=white" width="6%" /></a>
 </div>
 
 ---
