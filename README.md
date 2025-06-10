@@ -139,11 +139,7 @@
 </p>
 
 <br>
----
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
@@ -174,12 +170,13 @@
 
 ---
 
-## 🐍 A Snake Eating My Contributions
-
+##                                  🌿 The End
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
-  </picture>
+	🚀 I'm currently learning Flutter and exploring cross-platform development.
+	<br>
+🎯 Passionate about front-end development and building clean, user-friendly apps.
+	<br>
+📚 Always learning, always building.
+	<br>
+Thanks for visiting my profile! Feel free to check out my projects or reach out anytime.
 </p>
