@@ -160,11 +160,12 @@
 
 ##                                  🌿 The End
 <p align="center">
-	🚀 I'm currently learning Flutter and exploring cross-platform development.
+	<b>🚀 I'm currently learning Flutter and exploring cross-platform development.
 	<br>
 🎯 Passionate about front-end development and building clean, user-friendly apps.
 	<br>
 📚 Always learning, always building.
 	<br>
 Thanks for visiting my profile! Feel free to check out my projects or reach out anytime.
+	</b>
 </p>
