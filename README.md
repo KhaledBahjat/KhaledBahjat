@@ -6,13 +6,11 @@
 </p>
 <br>
 <p>
-    <a href="https://git.io/typing-svg"><img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=002485&random=true&width=435&lines=I'm+%2CFront-end+Develober++%F0%9F%8E%A8;I'm+Software+Engineer++%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;I'm+Proplem+Solver+%E2%9A%A1%EF%B8%8F"
+  <a href="https://git.io/typing-svg"><img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=002485&random=true&width=435&lines=I'm+a+Flutter+Developer++%F0%9F%93%B1;I'm+Software+Engineer++%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;I'm+a+Problem+Solver+%E2%9A%A1%EF%B8%8F"
       alt="Typing SVG" /></a>
 </p>
 <br>
-
-
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width=6.5%> About me
 
@@ -20,225 +18,127 @@
   width=30%>
 
 <br><br>
-- 👨‍💻 I'm Software Engineer
-- :school: I `Student` in [Faculty of Computers & Informatics](http://www.svnu.edu.eg/com/index.html) at [SVNU
-University](http://www.svnu.edu.eg/).
-- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
-- ✍🏻 I love using Software as a solution for every Problem
-- 🤓 Always learning new things
-- :thinking: I’m currently lerining Dart & Flutter.
-<br>
 
-
-## <img
-  src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s"
-  width=10%> My Competitive Programming Profiles
-
-<div align="center" width=100%>
-  <a href="https://codeforces.com/profile/NoSt0n_"><img
-      src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"
-      alt="Code Forces" width=6% /></a>
-  &emsp;
-  <a href="https://leetcode.com/u/Khaled_Bahjat/"><img
-      src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"
-      alt="LeetCode" width=%6 /></a>
-  &emsp;
-  <a href="https://atcoder.jp/users/NoSt0n_"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6% /></a>
-</div>
-
-## <img src="https://github.com/KhaledBahjat/KhaledBahjat/blob/main/Images/Connect-with-me.gif?raw=true" width="10%">
-Connect with me
-<p align="center">
-  <a href="mailto:khaledbahjat0@gmail.com"><img img
-      src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/KhaledBahjat"><img
-      src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"
-      alt="GitHub" /></a>
-  <a href="https://wa.me/0201143481912"><img
-      src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white"
-      alt="Whatsapp" /></a>
-  <a
-    href="https://www.facebook.com/people/Khaled-B-Zaki/pfbid02cNW7x7x7yWTGA3VM4BT1id6t1skaLcVTMYMC2mckj7JweKFG1TE8nnJoAvQniGdWl/"><img
-      src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white"
-      alt="Facebook" /></a>
-  <a href="https://www.instagram.com/khaledzaki381/"><img
-      src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white"
-      alt="Instagram" /></a>
-</p>
-
-
-
-## <img
-  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
-  width="3%"> My Skills
-
-### <img src="https://github.com/KhaledBahjat/KhaledBahjat/blob/main/Images/Programming_Languages.gif?raw=true"
-  width=5%> Programming languages
-
-<p align="center">
-  &emsp;
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img alt="JavaScript"
-      src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python"
-      src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-</p>
-
-### <img src="https://github.com/KhaledBahjat/KhaledBahjat/blob/main/Images/Front_End.gif?raw=true" width=5%> Frontend
-Development
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"
-    alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"
-    alt="Bootstrap" />
-</p>
-
-### <img src="https://github.com/KhaledBahjat/KhaledBahjat/blob/main/Images/Software_Tools.gif?raw=true" width=5%>
-Software & Tools
-
-<p align="center">
-  &emsp;
-  <a href="#"><img alt="Git"
-      src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="GitHub"
-      src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Stack Overflow"
-      src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Geekf For Geeks"
-      src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-</p>
-
-### <img src="https://github.com/KhaledBahjat/KhaledBahjat/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
-
-<p align="center">
-  &emsp;
-  <a href="#"><img alt="Visual Studio Code"
-      src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="JetBrain"
-      src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-  &emsp;
-  <a href="#"><img alt="Atom"
-      src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
-  <a href="#"><img alt="Eclipse"
-      src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-</p>
-
-### <img src="https://github.com/KhaledBahjat/KhaledBahjat/blob/main/Images/CP_PS.gif?raw=true" width=5%> Competitive
-Programming & Problem Solving
-
-<p align="center">
-  &emsp;
-  <a href="#"><img alt="Codeforces"
-      src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>
-  &emsp;
-  <a href="#"><img alt="Leetcode"
-      src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-  <a href="#"><img alt="Huckerrank"
-      src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-</p>
-
-### <img src="https://github.com/KhaledBahjat/KhaledBahjat/blob/main/Images/OS.gif?raw=true" width=5%> Operating Systems
-
-<p align="center">
-  &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
-
-<br>
+- 👨‍💻 I'm a Software Engineer
+- 🎓 I’m a student at [Faculty of Computers & Informatics](http://www.svnu.edu.eg/com/index.html), [SVNU](http://www.svnu.edu.eg/)
+- 📱 I’m a passionate Flutter Developer
+- ✍🏻 I love building mobile apps to solve real-world problems
+- 🤓 Always learning and exploring new technologies
+- 🎯 Currently focused on mastering Dart & Flutter
 
 ---
 
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="10%"> Competitive Programming
+
+<div align="center">
+  <a href="https://codeforces.com/profile/NoSt0n_"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width="6%" /></a>
+  &emsp;
+  <a href="https://leetcode.com/u/Khaled_Bahjat/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="6%" /></a>
+  &emsp;
+  <a href="https://atcoder.jp/users/NoSt0n_"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width="6%" /></a>
+</div>
+
+---
+
+## <img src="https://github.com/KhaledBahjat/KhaledBahjat/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+
 <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt="Quote"
-      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes">
+  <a href="mailto:khaledbahjat0@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/KhaledBahjat"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://wa.me/0201143481912"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" /></a>
+  <a href="https://www.facebook.com/people/Khaled-B-Zaki/pfbid02cNW7x7x7yWTGA3VM4BT1id6t1skaLcVTMYMC2mckj7JweKFG1TE8nnJoAvQniGdWl/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/khaledzaki381/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-## <img
-  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif"
-  width=5% valign="bottom"> Github Stats
+---
+
+## 🧠 My Skills
+
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white" />
+</p>
+🎨 Frontend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white" />
+</p>
+
+### 📱 Mobile Development
+<p align="center">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Riverpod-0A0A0A?style=plastic&logo=riverpod&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLoC-3982E4?style=plastic&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Provider-009688?style=plastic&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GetX-DD0031?style=plastic&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material%20Design-757575?style=plastic&logo=material-design&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive%20UI-3DDC84?style=plastic&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Animations-F48FB1?style=plastic&logo=flutter&logoColor=white" />
+</p>
+
+### 🔧 Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" />
+</p>
+
+### 🖥️ IDEs
+<p align="center">
+   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=plastic&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLion-000000?style=plastic&logo=clion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=eclipse-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" />
+</p>
+
+### 🧮 Operating Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" />
+</p>
+
+---
+
+## 🧾 Github Stats
 
 <details>
-  <summary>
-    <h3> 🔥 Streak Stats</h3>
-  </summary>
-
-  ----
-
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=KhaledBahjat&theme=cobalt"
-      alt="KhaledBahjat" /></p>
-
+  <summary><h3>🔥 Streak Stats</h3></summary>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=KhaledBahjat&theme=cobalt" /></p>
 </details>
 
 <details>
-  <summary>
-    <h3>💻 GitHub Profile Stats</h3>
-  </summary>
-
-  ----
-
+  <summary><h3>💻 GitHub Profile Stats</h3></summary>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="KhaledBahjat's Github Stats"
-        src="https://github-readme-stats.vercel.app/api?username=KhaledBahjat&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true"
-        height="230px" /></a>
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight"
-      alt="7oSkaaa" height="230px" />
-    <br />
-
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect
-    experience or skill level.
+    <img src="https://github-readme-stats.vercel.app/api?username=KhaledBahjat&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true" height="230px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaledBahjat&langs_count=10&theme=tokyonight" height="230px" />
   </p>
 </details>
 
 <details>
-  <summary>
-    <h3>⚡ Recent GitHub Activity</h3>
-  </summary>
-
-  ----
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledBahjat&bg_color=4d1432&color=9e4c98&line=000000&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)">
-
+  <summary><h3>⚡ Recent GitHub Activity</h3></summary>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledBahjat&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </details>
 
-</br></br>
+---
 
-## 🐍 A Snake Eating My Contributions Graph
+## 🐍 A Snake Eating My Contributions
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
