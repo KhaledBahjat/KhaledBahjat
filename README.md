@@ -34,8 +34,12 @@
   <a href="https://codeforces.com/profile/NoSt0n_"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width="6%" /></a>
   &emsp;
   <a href="https://leetcode.com/u/Khaled_Bahjat/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="6%" /></a>
+
+  
   &emsp;
-  <a href="https://atcoder.jp/users/NoSt0n_"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width="6%" /></a>
+  <a href="https://atcoder.jp/users/NoSt0n_"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width="6%" /> </a>
+  &emsp;
+  <a href="https://vjudge.net/user/khaledbahjat"> <img src="https://img.shields.io/badge/Vjudge-0A0A0A.svg?style=plastic&logo=codeproject&logoColor=white" /></a>
 </div>
 
 ---
@@ -58,8 +62,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white" />
 </p>
 
 ### 🎨 Frontend Development
@@ -97,7 +101,6 @@
 <p align="center">
    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=plastic&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/CLion-000000?style=plastic&logo=clion&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=eclipse-ide&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" />
