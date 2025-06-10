@@ -31,7 +31,7 @@
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="10%"> Competitive Programming
 
 <div align="center">
-  <a href="https://codeforces.com/profile/NoSt0n_"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width="6%" /></a>
+  <a href="https://codeforces.com/profile/NoSt0n_"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width="6%" /></a>
   &emsp;
   <a href="https://leetcode.com/u/Khaled_Bahjat/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="6%" /></a>
   &emsp;
@@ -61,7 +61,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white" />
 </p>
-🎨 Frontend Development
+
+### 🎨 Frontend Development
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
