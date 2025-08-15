@@ -60,25 +60,13 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white" />
-</p>
+
 
 ### 📱 Mobile Development
 <p align="center">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Riverpod-0A0A0A?style=plastic&logo=riverpod&logoColor=white" />
-  <img src="https://img.shields.io/badge/BLoC-3982E4?style=plastic&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Provider-009688?style=plastic&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/GetX-DD0031?style=plastic&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Material%20Design-757575?style=plastic&logo=material-design&logoColor=white" />
   <img src="https://img.shields.io/badge/Responsive%20UI-3DDC84?style=plastic&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Animations-F48FB1?style=plastic&logo=flutter&logoColor=white" />
