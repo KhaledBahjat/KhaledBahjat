@@ -120,31 +120,9 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
-
-</details>
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KhaledBahjat&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true" height="230px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaledBahjat&langs_count=10&theme=tokyonight" height="230px" />
-  </p>
-</details>
-
-<details>
-  <summary><h3>⚡ Recent GitHub Activity</h3></summary>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledBahjat&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</details>
-
----
 
 ##                                  🌿 The End
 <p align="center">
