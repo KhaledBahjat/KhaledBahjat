@@ -70,6 +70,17 @@
   <img src="https://img.shields.io/badge/Material%20Design-757575?style=plastic&logo=material-design&logoColor=white" />
   <img src="https://img.shields.io/badge/Responsive%20UI-3DDC84?style=plastic&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Animations-F48FB1?style=plastic&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/State%20Management-FF5722?style=plastic&logo=flutter&logoColor=white" />
+  <!-- supabase -->
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white" />
+    <!-- MVVM -->
+    <img src="https://img.shields.io/badge/MVVM-673AB7?style=plastic&logo=flutter&logoColor=white" />
+    <!-- clean architecture -->
+    <img src="https://img.shields.io/badge/Clean%20Architecture-009688?style=plastic&logo=flutter&logoColor=white" />
+    <!-- sqlite -->
+    <img src="https://img.shields.io/badge/SQLite-07408E?style=plastic&logo=sqlite&logoColor=white" />
+    <!-- local storage -->
+    <img src="https://img.shields.io/badge/Local%20Storage-4CAF50?style=plastic&logo=flutter&logoColor=white" />
 </p>
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
